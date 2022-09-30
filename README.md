@@ -1,3 +1,6 @@
+git remote add origin https://github.com/Deboyin/alx-pre_softwareengineering.git
+git branch -M main
+git push -u origin main
 echo "# alx-pre_course" >> README.md
 git init
 git add README.md
